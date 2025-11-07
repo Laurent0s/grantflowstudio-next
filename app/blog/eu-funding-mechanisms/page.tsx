@@ -99,7 +99,7 @@ export default function BlogPost() {
 
             <h2>Key Success Factors</h2>
             <p>
-              Based on our experience supporting hundreds of successful applications, we've identified critical factors:
+              Based on our experience supporting hundreds of successful applications, we&apos;ve identified critical factors:
             </p>
 
             <ul>

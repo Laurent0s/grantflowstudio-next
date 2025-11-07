@@ -80,7 +80,7 @@ export default function AboutUs() {
                 The Center for Development - Time of Change was founded in 2013 with a clear vision: to bridge the gap between organizations with impactful ideas and the funding opportunities that could bring those ideas to life.
               </p>
               <p className="text-muted-foreground mb-4">
-                What started as a small consulting firm has grown into a leading grant consulting organization, working with clients across Europe and beyond. We've helped secure over €10 million in funding and trained more than 20,000 professionals in the art and science of grant writing and project development.
+                What started as a small consulting firm has grown into a leading grant consulting organization, working with clients across Europe and beyond. We&apos;ve helped secure over €10 million in funding and trained more than 20,000 professionals in the art and science of grant writing and project development.
               </p>
               <p className="text-muted-foreground">
                 Today, we maintain strong partnerships with EU institutions, international NGOs, and leading organizations, positioning us at the forefront of grant consulting and development work.

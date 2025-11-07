@@ -21,7 +21,7 @@ export default function Contacts() {
         <div className="container mx-auto px-4">
           <h1 className="text-4xl md:text-5xl font-bold text-foreground mb-6">Contact Us</h1>
           <p className="text-lg text-muted-foreground mb-12 max-w-3xl">
-            Get in touch with our team. We're here to help you with your grant consulting needs.
+            Get in touch with our team. We&apos;re here to help you with your grant consulting needs.
           </p>
           
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-8">

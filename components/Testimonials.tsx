@@ -60,7 +60,7 @@ const Testimonials = () => {
             
             <div className="relative z-10 animate-fade-in" key={currentIndex}>
               <p className="text-xl md:text-2xl text-foreground mb-8 leading-relaxed">
-                "{testimonials[currentIndex].quote}"
+                &quot;{testimonials[currentIndex].quote}&quot;
               </p>
               <div className="flex items-center">
                 <div className="w-16 h-16 rounded-full gradient-primary flex items-center justify-center mr-4">

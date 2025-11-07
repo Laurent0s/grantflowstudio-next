@@ -22,7 +22,7 @@ const CallToAction = () => {
           </h2>
           <p className="text-xl text-white/90 mb-8">
             Join thousands of successful organizations that trust us with their grant applications. 
-            Let's turn your vision into funded reality.
+            Let&apos;s turn your vision into funded reality.
           </p>
           <Button 
             size="lg"

@@ -85,7 +85,7 @@ const HorizonEurope = () => {
             <div className="max-w-4xl">
               <h1 className="text-4xl md:text-5xl font-bold text-foreground mb-4">{grant?.programme}</h1>
               <p className="text-xl text-muted-foreground mb-6">
-                The EU's key funding programme for research and innovation with a budget of €95.5 billion for 2021-2027
+                The EU&apos;s key funding programme for research and innovation with a budget of €95.5 billion for 2021-2027
               </p>
               <div className="flex flex-wrap gap-4">
                 <Button size="lg">Apply Now</Button>

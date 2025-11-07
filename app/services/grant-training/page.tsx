@@ -108,7 +108,7 @@ export default function ServiceDetail() {
                   <Clock className="w-12 h-12 text-primary mb-4" />
                   <CardTitle>Flexible Scheduling</CardTitle>
                   <CardDescription>
-                    Choose from in-person, online, or hybrid formats to fit your team's schedule.
+                    Choose from in-person, online, or hybrid formats to fit your team&apos;s schedule.
                   </CardDescription>
                 </CardHeader>
               </Card>
@@ -155,7 +155,7 @@ export default function ServiceDetail() {
         {/* Benefits */}
         <section className="py-16">
           <div className="container mx-auto px-4 max-w-6xl">
-            <h2 className="text-3xl font-bold mb-8">What You'll Gain</h2>
+            <h2 className="text-3xl font-bold mb-8">What You&apos;ll Gain</h2>
             <div className="grid md:grid-cols-2 gap-6">
               {benefits.map((benefit, index) => (
                 <div key={index} className="flex items-start gap-3">

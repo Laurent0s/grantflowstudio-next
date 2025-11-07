@@ -62,7 +62,7 @@ export default function HorizonEurope() {
             <div className="max-w-4xl">
               <h1 className="text-4xl md:text-5xl font-bold text-foreground mb-4">Horizon Europe</h1>
               <p className="text-xl text-muted-foreground mb-6">
-                The EU's key funding programme for research and innovation with a budget of €95.5 billion for 2021-2027
+                The EU&apos;s key funding programme for research and innovation with a budget of €95.5 billion for 2021-2027
               </p>
               <div className="flex flex-wrap gap-4">
                 <Button size="lg">Apply Now</Button>
@@ -77,8 +77,8 @@ export default function HorizonEurope() {
           <div className="max-w-4xl">
             <h2 className="text-3xl font-bold text-foreground mb-6">Programme Overview</h2>
             <p className="text-lg text-muted-foreground mb-4">
-              Horizon Europe is the European Union's flagship research and innovation programme, succeeding Horizon 2020. 
-              It tackles climate change, helps to achieve the UN's Sustainable Development Goals, and boosts the EU's 
+              Horizon Europe is the European Union&apos;s flagship research and innovation programme, succeeding Horizon 2020. 
+              It tackles climate change, helps to achieve the UN&apos;s Sustainable Development Goals, and boosts the EU&apos;s 
               competitiveness and growth.
             </p>
             <p className="text-lg text-muted-foreground">
