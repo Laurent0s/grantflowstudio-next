@@ -21,7 +21,7 @@ const HorizonEurope = () => {
 
   useEffect(() => {
     async function fetchGrant() {
-      const response = await fetch(`api/grants/${id}`);
+      const response = await fetch(`/api/grants/${id}`);
       const data = await response.json();
       setGrant(data);
     }
