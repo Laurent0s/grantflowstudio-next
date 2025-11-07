@@ -59,7 +59,7 @@ export default function Grants2025() {
   useEffect(() => {
     async function fetchGrants() {
       try {
-        const response = await fetch(`http://37.27.243.207:8000/grants?page=${currentPage}&page_size=21`);
+        const response = await fetch(`api/grants?page=${currentPage}&page_size=21`);
         const data = await response.json();
         setGrants(data.items);
         setTotalPages(data.total_pages);
